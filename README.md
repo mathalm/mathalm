@@ -6,7 +6,7 @@ Front-end student
 
 I am currently studying software development and intend to enter the IT area soon.
 
-*   🌍  I'm live in Florianópolis, SC
+*   🌍  I'm living in Florianópolis, SC
 *   🖥️  See my portfolio at [GitHub](http://github.com/mathalm)
 *   ✉️  You can contact me at [matheuscsalmeida@gmail.com](mailto:matheuscsalmeida@gmail.com)
 *   🚀  I'm currently working on [Portifolio](http://github.com/mathalm/portifolio)
