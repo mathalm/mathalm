@@ -4,14 +4,14 @@ Hi 👋 My name is Matheus de Almeida
 Front-end student
 -----------------
 
-I am currently studying software development and intend to enter the IT area soon.
+I am currently studying software development and work as a FullStack Developer.
 
 *   🌍  I'm living in Florianópolis, SC
 *   🖥️  See my portfolio at [GitHub](http://github.com/mathalm)
 *   ✉️  You can contact me at [matheuscsalmeida@gmail.com](mailto:matheuscsalmeida@gmail.com)
 *   🚀  I'm currently working on [landingpage-teste](https://github.com/mathalm/landingpage-teste) and [server-landingpage](https://github.com/mathalm/server-LandingPage)
 *   🧠  I'm learning React.js
-*   🤝  I'm open to collaborating on Front-end projects### Skills<p align="left">
+*   🤝  I'm open to collaborating on Front-end projects <br/>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
